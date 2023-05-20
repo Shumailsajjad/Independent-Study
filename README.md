@@ -1,1 +1,1 @@
-### Unsupervised Data Science - Project collarborated with Dr. Shaheena Bashir
+### Unsupervised Data Science - Project collaborated with Dr. Shaheena Bashir
