@@ -1,3 +1,1 @@
-# Independent-Study
-
-### Unsupervised Data Science
+### Unsupervised Data Science - Project collarborated with Dr. Shaheena Bashir
